@@ -1,0 +1,31 @@
+{
+  "name": "venture-bank",
+  "version": "1.0.0",
+  "description": "> A modern banking system designed for entrepreneurs and small businesses.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArtTwis/Venture-Bank.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Javascript",
+    "Backend",
+    "Server",
+    "Express.js",
+    "Helmet",
+    "JWT",
+    "JsonWebToken ",
+    "MongoDB",
+    "Mongoose",
+    "MongoDbAggregation",
+    "Endpoints",
+    "ERDiagram"
+  ],
+  "author": "ArtTwis",
+  "license": "ISC"
+}
