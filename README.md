@@ -8,7 +8,7 @@
 
 ## Technical Details
 
-**Backend:** Built using [Node.js/Express]
-**Frontend:** Built using [React.JS]
-**Database:** [MongoDB]
-**API:** RESTful API for easy integration with third-party services.
+- **Backend:** Built using [Node.js/Express]
+- **Frontend:** Built using [React.JS]
+- **Database:** [MongoDB]
+- **API:** RESTful API for easy integration with third-party services.
