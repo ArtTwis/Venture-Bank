@@ -1,0 +1,11 @@
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api\",\"status\":\"201\",\"responseTime\":\"1.853\"}","timestamp":"2024-08-21T06:26:08.957Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api\",\"status\":\"201\",\"responseTime\":\"0.585\"}","timestamp":"2024-08-21T06:26:09.900Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api\",\"status\":\"201\",\"responseTime\":\"0.345\"}","timestamp":"2024-08-21T06:26:10.445Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET request was made","timestamp":"2024-08-21T06:27:53.851Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api\",\"status\":\"201\",\"responseTime\":\"4.154\"}","timestamp":"2024-08-21T06:27:53.854Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET request was made","timestamp":"2024-08-21T06:33:51.009Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api\",\"status\":\"201\",\"responseTime\":\"4.872\"}","timestamp":"2024-08-21T06:33:51.014Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"GET request was made","timestamp":"2024-08-21T06:33:53.854Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api\",\"status\":\"201\",\"responseTime\":\"0.856\"}","timestamp":"2024-08-21T06:33:53.855Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api\",\"status\":\"201\",\"responseTime\":\"2.815\"}","timestamp":"2024-08-21T06:36:23.904Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api\",\"status\":\"201\",\"responseTime\":\"0.708\"}","timestamp":"2024-08-21T06:36:24.346Z"}
