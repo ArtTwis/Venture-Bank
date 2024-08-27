@@ -1,10 +1,6 @@
-export const DB_NAME = "venture";
-
 export const SALT = 10;
 
 export const USER_ID_LENGTH = 8;
-
-export const DEFAULT_PASSWORD = "venture@123456";
 
 export const cookiesOptions = {
   httpOnly: true, //  Using the HttpOnly flag when generating a cookie helps mitigate the risk of client side script accessing the protected cookie (if the browser supports it)

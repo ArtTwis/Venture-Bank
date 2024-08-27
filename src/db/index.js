@@ -1,11 +1,10 @@
 import mongoose from "mongoose";
-import { DB_NAME } from "../constant/common.js";
 
 const connectDB = async () => {
   try {
     const mongoDbConnectionInstance = await mongoose.connect(
       // eslint-disable-next-line no-undef
-      `${process.env.MONGODB_URI}/${DB_NAME}`
+      `${process.env.MONGODB_URI}/${process.env.DB_NAME}`
     );
 
     // eslint-disable-next-line no-undef
