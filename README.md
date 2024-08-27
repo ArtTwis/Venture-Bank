@@ -1,5 +1,7 @@
 # Venture Bank
 
+![Bank Image](./src/assets/images/logo.png)
+
 > A modern banking system designed for entrepreneurs and small businesses.
 
 ## Overview
