@@ -25,11 +25,11 @@ const UserAuthSchema = new mongoose.Schema(
       trim: true,
     },
     accessToken: {
-      type: [String],
+      type: String,
       default: null,
     },
     refreshToken: {
-      type: [String],
+      type: String,
       default: null,
     },
     isOperational: {
